@@ -1,2 +1,5 @@
 # opencart-swedish
-Svenska-Swedish OC 2.x.x
+Svensk spåkfil till Opencart 2.x.x - Frontend/backend
+
+
+http://demo.zvenzzon.com
