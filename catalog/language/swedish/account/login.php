@@ -20,4 +20,3 @@ $_['entry_password']               = 'Lösenord:';
 $_['error_login']                  = 'Fel e-postadress och/eller lösenord.';
 $_['error_attempts']               = 'Du har överskridit tillåtet antal inloggningsförsök. Försök igen om 1 timme.';
 $_['error_approved']               = 'Innan du kan logga in med ditt nya konto så behöver vi godkänna det.';
-?>

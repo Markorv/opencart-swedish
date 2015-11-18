@@ -1,10 +1,9 @@
 <?php
 // Heading
-$_['heading_title'] = 'Tack, för din beställning';
+$_['heading_title']        = 'Din order är nu genomförd!';
 // Text
 $_['text_basket']          = 'Kundvagn';
-$_['text_checkout']        = 'Kassan';
-$_['text_success']         = 'Klar';
-$_['text_customer']        = '<h3>Beställningen mottagen - Tack för din beställning</h3><br><p>En orderbekräftelse har skickats till din e-postadress,</p><p>Du kan se din orderhistorik genom att gå till <a href="%s">mitt konto</a> och klicka på <a href="%s">historik.</a><p>Om du har några frågor kring din order kan du kontakta oss på&nbsp;<a href="%s">mail</a>.</p><p>Tack för din beställning</p>';
-$_['text_guest']           = '<h3>Beställningen mottagen - Tack för din beställning</h3><br><p>En orderbekräftelse har skickats till din e-postadress,</p><p>Om du har några frågor kring din order kan du kontakta oss på &nbsp;<a href="%s">mail.</a></p><p>Tack för din beställning</p>';
-?>
+$_['text_checkout']        = 'Kassa';
+$_['text_success']         = 'Lyckades';
+$_['text_customer']        = '<p>Ditt köp lyckades!</p><p>Du kan visa din Orderhistorik genom att gå till <a href="%s">Mitt konto</a> och klicka på <a href="%s">Historik</a>.</p><p>Om du köpte en nedladdningsbar produkt, gå till <a href="%s">nedladdningar</a> för att se dem.</p><p>Vid frågor <a href="%s">kontakta oss</a>.</p><p>Tack för ditt köp!</p>';
+$_['text_guest']           = '<p>Ditt köp lyckades!</p><p>Vid frågor <a href="%s">kontakta oss</a>.</p><p>Tack för ditt köp!</p>';

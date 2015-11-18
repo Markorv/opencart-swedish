@@ -9,4 +9,3 @@ $_['text_success']     = 'Har uppdaterats!';
 
 // Entry
 $_['entry_newsletter'] = 'Jag vill ha nyhetsbrev';
-?>

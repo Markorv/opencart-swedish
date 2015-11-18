@@ -1,13 +1,13 @@
 <?php
 // Heading
-$_['heading_title'] = 'Använd Presentkort';
+$_['heading_title'] = 'Använd presentkort';
 
 // Text
-$_['text_success']  = 'Din presentkort rabatt har tillämpats';
+$_['text_success']  = 'Lyckades: Presentkortet har blivit tillagt!';
 
 // Entry
-$_['entry_voucher'] = 'Här anger du din presentkorts kod';
+$_['entry_voucher'] = 'Ange presentkortkoden  här';
 
 // Error
-$_['error_voucher'] = 'Varning: Presentkort är antingen ogiltig eller balansen har använts';
-$_['error_empty']   = 'Varning: Ange en presentkorts koden';
+$_['error_voucher'] = 'Fel: Ogiltig kod eller så är presentkortet redan använt!';
+$_['error_empty']   = 'Fel: Vänligen ange en presentkortskod!';

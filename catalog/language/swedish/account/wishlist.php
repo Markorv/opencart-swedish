@@ -14,7 +14,7 @@ $_['text_empty']    = 'Din önskelista är tom';
 // Column
 $_['column_image']  = 'Bild';
 $_['column_name']   = 'Produktnamn';
-$_['column_model']  = 'Artikelnr';
+$_['column_model']  = 'Artikelnummer';
 $_['column_stock']  = 'Lager';
 $_['column_price']  = 'á pris';
 $_['column_action'] = 'Klar';

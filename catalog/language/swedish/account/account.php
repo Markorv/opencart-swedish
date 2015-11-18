@@ -11,11 +11,11 @@ $_['text_edit']          = 'Ändra kontoinformation';
 $_['text_password']      = 'Ändra lösenordet';
 $_['text_address']       = 'Ändra adresslistan';
 $_['text_wishlist']      = 'Ändra önskelistan';
-$_['text_order']         = 'Orderhistorik';
+$_['text_order']         = 'Visa orderhistorik';
 $_['text_download']      = 'Nerladdningar';
-$_['text_reward']        = 'Bonuspoäng'; 
-$_['text_return']        = 'Returförfrågningar'; 
+$_['text_reward']        = 'Dina bonuspoäng'; 
+$_['text_return']        = 'Visa returer'; 
+$_['text_transaction']   = 'Visa transaktioner';
 $_['text_newsletter']    = 'Nyhetsbrev/ avsluta nyhetsbrev';
-$_['text_recurring']     = 'Återkommande betalningar';
+$_['text_recurring']     = 'Abonnemang';
 $_['text_transaction']   = 'Transaktioner'; 
-?>

@@ -6,14 +6,11 @@ $_['heading_title'] = 'Misslyckade betalning!';
 $_['text_basket']   = 'Kundvagn';
 $_['text_checkout'] = 'Kassan';
 $_['text_failure']  = 'Betalningen misslyckades';
-$_['text_message']  = '<p>Det uppstå ett problem med din betalning och din beställnig gick inte att genomföra</p>
+$_['text_message']  = '<p>Det var ett problem med betalningen så köpet kunde inte genomföras.</p>
 
-<p>Orsaker kan vara:</p>
+p>Troliga orsaker är:</p>
 <ul>
-  <li>Otillräcklig med saldo</li>
-  <li>Verifiering misslyckades</li>
+  <li>Lågt saldo</li>
 </ul>
-
-<p>Försök att beställa igen med en annan betalningsmetod.</p>
-
-<p>Om problemet kvarstår vänligen <a href="%s">kontakta oss</a></p>';
+<p>Vänligen försök igen med ett annat betalningssätt.</p>
+<p>om felet kvarstår vänligen <a href="%s">kontakta oss</a> med detaljer om köpet.</p>';

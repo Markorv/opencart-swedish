@@ -12,6 +12,5 @@ $_['entry_password'] = 'Lösenord:';
 $_['entry_confirm']  = 'Bekräfta lösenord:';
 
 // Error
-$_['error_password'] = 'Lösenordet måste inhålla minst 4 tecken';
-$_['error_confirm']  = 'Lösenordet matchar inte, vänligen kontrollorera lösenordet och bekräftande lösenord!';
-?>
+$_['error_password'] = 'Lösenordet måste innehålla minst 4 tecken';
+$_['error_confirm']  = 'Lösenordet och bekräftat lösenord är inte samma';

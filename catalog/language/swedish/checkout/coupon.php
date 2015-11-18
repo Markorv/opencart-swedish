@@ -3,11 +3,11 @@
 $_['heading_title'] = 'Använd rabattkod';
 
 // Text
-$_['text_success']  = 'Din rabattkod är nu använd';
+$_['text_success']  = 'Lyckades: Din rabattkod är aktiverad!';
 
 // Entry
-$_['entry_coupon']  = 'Rabattkod';
+$_['entry_coupon']  = 'Ange rabattkod här';
 
 // Error
-$_['error_coupon']  = 'Ogiltig rabattkod.';
-$_['error_empty']   = 'Ange en rabattkod';
+$_['error_coupon']  = 'Fel: Ogiltig rabattkod';
+$_['error_empty']   = 'Fel: Vänligen ange en rabattkod';

@@ -54,7 +54,7 @@ $_['entry_password']                 = 'Lösenord:';
 $_['entry_confirm']                  = 'Bekräfta lösenord:';
 $_['entry_firstname']                = 'Förnamn:';
 $_['entry_lastname']                 = 'Efternamn:';
-$_['entry_telephone']                = 'Telefonnummer:';
+$_['entry_telephone']                = 'Mobiltelefon:';
 $_['entry_fax']                      = 'Faxnummer:';
 $_['entry_address']                  = 'Välj adress';
 $_['entry_company']                  = 'Företagsnamn:';
@@ -62,7 +62,7 @@ $_['entry_customer_group']           = 'Kund grupp';
 $_['entry_address_1']                = 'Address:';
 $_['entry_address_2']                = 'Address 2:';
 $_['entry_postcode']                 = 'Postnummer:';
-$_['entry_city']                     = 'Postort:';
+$_['entry_city']                     = 'Ort:';
 $_['entry_country']                  = 'Land:';
 $_['entry_zone']                     = 'Län:';
 $_['entry_newsletter']               = 'Jag vill ha nyhetsbrev.';
@@ -92,4 +92,3 @@ $_['error_no_shipping']              = 'Ingen fraktmetod är tillgänglig. Vänl
 $_['error_payment']                  = 'Du måste välja en betalningsmetod!';
 $_['error_no_payment']               = 'Ingen betalningsmetod är tillgänlig. Vänligen <a href="%s">kontakta oss</a> för hjälp';
 $_['error_custom_field']             = '%s krävs';
-?>
