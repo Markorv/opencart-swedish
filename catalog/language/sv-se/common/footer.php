@@ -14,5 +14,5 @@ $_['text_account']      = 'Mitt konto';
 $_['text_order']        = 'Orderhistorik';
 $_['text_wishlist']     = 'Önskelista';
 $_['text_newsletter']   = 'Nyhetsbrev';
-$_['text_powered']      = 'Maxhost.se - En komplett lösning för din e-butik';
+$_['text_powered']      = 'Butiken drivs med hjälp av <a href="http://www.opencart.com">OpenCart</a><br /> %s &copy; %s';
 ?>
