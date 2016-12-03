@@ -1,6 +1,5 @@
 # opencart-swedish
-Svensk spåkfil till Opencart 2.x.x - Frontend/backend
+Swedish language file for Opencart 2.x.x - Frontend and Backend  
+Svensk språkfil till Opencart 2.x.x - Frontend och Backend
 
-http://bit.ly/ocsweden
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2Z6E8XFFCUQ7W"> ![test](https://www.paypalobjects.com/sv_SE/SE/i/btn/btn_donateCC_LG.gif "Good cause")</a>
+Original repo [https://github.com/zvenzzon/opencart-swedish](https://github.com/zvenzzon/opencart-swedish)
